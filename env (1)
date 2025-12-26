@@ -1,0 +1,5 @@
+TELEGRAM_BOT_TOKEN=8466268046:AAGluIBBEiNwMEcvY-c6QqBcy3rLdgevXtg
+
+BASE=user_bots/
+
+DB=processes.json
